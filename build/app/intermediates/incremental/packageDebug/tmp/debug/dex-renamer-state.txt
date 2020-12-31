@@ -1,0 +1,4 @@
+#Thu Dec 31 15:31:45 IST 2020
+base.0=/Users/sonikav/my_projects/my_quiz_app/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
